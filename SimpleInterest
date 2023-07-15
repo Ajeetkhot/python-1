@@ -1,0 +1,3 @@
+def simpleinterest(p,t,r):
+    return (p*t*r)/100
+simpleinterest(1000,2,10)
